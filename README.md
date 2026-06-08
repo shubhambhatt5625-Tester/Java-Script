@@ -16,6 +16,9 @@ A structured collection of JavaScript exercises and examples organized by chapte
 | 06 | [`06_chapter_Operator`](./06_chapter_Operator) | Operators: arithmetic, comparison, logical, ternary, increment/decrement |
 | 07 | [`07_chapter_if_&_else_statement`](./07_chapter_if_&_else_statement) | Conditional statements: `if`, `else if`, `else`, real-world examples |
 | 08 | [`08_chapter_switch`](./08_chapter_switch) | Switch statements, browser detection, test scores |
+| 10 | [`10_chapter_Loop`](./10_chapter_Loop) | Loops: `for`, `while`, `do-while`, `continue`, `break`, FizzBuzz, IQ |
+| 11 | [`11_chapter_Array`](./11_chapter_Array) | Arrays: creation, accessing, modifying, searching, iteration, sorting, slicing, concatenation |
+| 12 | [`12_chapter_function`](./12_chapter_function) | Functions: basic, parameters, return types, expressions, arrow functions, templates |
 
 ---
 
@@ -99,6 +102,38 @@ Or run directly inside browser DevTools by copying the code.
 - Vowel checker
 - Test score grading
 - Switch IQ / puzzle questions
+
+### Chapter 10 - Loops
+- `for` loop, `while` loop, `do-while` loop
+- `continue` and `break` statements
+- Table printing (normal and reverse)
+- Loop with `if-else` combinations
+- FizzBuzz practice
+- Triangle classifier
+- Loop IQ / puzzle questions
+
+### Chapter 11 - Arrays
+- Array creation and accessing elements
+- Modifying array elements
+- Adding elements (`push`, `unshift`, `splice`)
+- Removing elements (`pop`, `shift`, `splice`)
+- Searching (`indexOf`, `includes`, `find`)
+- Iteration (`for`, `forEach`, `for...of`)
+- Transformation (`map`, `filter`, `reduce`)
+- Sorting (`sort`, `reverse`)
+- Slicing (`slice`)
+- Concatenation (`concat`)
+- Array checking (`Array.isArray`)
+- Real-world examples (shopping cart, to-do list)
+
+### Chapter 12 - Functions
+- Basic function declarations
+- Parameters with no return
+- Parameters with return
+- Return type with no parameters
+- Template literals in functions
+- Function expressions
+- Arrow functions
 
 ---
 
