@@ -10,4 +10,4 @@ console.log(str.at(-6));
 
 // index = 0, length = 1
 console.log(str.charAt(1)); //what is at the second position of the string 
-console.log(str.charCodeAt(0));// captial H is denote by 72 in the code language. 
+console.log(str.charCodeAt(0));// captial H is denote by 72 in the code language.  
