@@ -19,6 +19,10 @@ A structured collection of JavaScript exercises and examples organized by chapte
 | 10 | [`10_chapter_Loop`](./10_chapter_Loop) | Loops: `for`, `while`, `do-while`, `continue`, `break`, FizzBuzz, IQ |
 | 11 | [`11_chapter_Array`](./11_chapter_Array) | Arrays: creation, accessing, modifying, searching, iteration, sorting, slicing, concatenation |
 | 12 | [`12_chapter_function`](./12_chapter_function) | Functions: basic, parameters, return types, expressions, arrow functions, templates |
+| 13 | [`13_chapter_string`](./13_chapter_string) | Strings: creation, searching, substring, transformation, conversion, cheat sheet |
+| 14 | [`14_chapter_objects`](./14_chapter_objects) | Objects (upcoming) |
+| 15 | [`15_chapter_2Darray_MultiArray`](./15_chapter_2Darray_MultiArray) | 2D/Multi-dimensional arrays: grid creation, real-world examples, array functions, pattern printing |
+| 16 | [`16_chapter_callback`](./16_chapter_callback) | Callbacks: basics, callback hell, async vs sync, Playwright callbacks, parameters, return types |
 
 ---
 
@@ -134,6 +138,34 @@ Or run directly inside browser DevTools by copying the code.
 - Template literals in functions
 - Function expressions
 - Arrow functions
+
+### Chapter 13 - Strings
+- String creation (single, double, template literals)
+- String properties (`length`)
+- Searching in strings (`includes`, `indexOf`, `search`)
+- Substring extraction (`slice`, `substring`, `substr`)
+- String transformation (`toUpperCase`, `toLowerCase`, `trim`, `replace`)
+- String conversion (`toString`, `String()`, `Number()`)
+- Complete string methods cheat sheet
+
+### Chapter 14 - Objects
+- Upcoming content
+
+### Chapter 15 - 2D Arrays & Multi-dimensional Arrays
+- 2D array creation and accessing elements
+- Grid representation and manipulation
+- Real-world examples (matrices, tables)
+- Array functions with 2D arrays
+- Pattern printing exercises
+
+### Chapter 16 - Callbacks
+- Callback function basics
+- Callback hell and its problems
+- Synchronous vs asynchronous execution
+- Playwright callback examples
+- Callbacks with parameters
+- Callback return types
+- Real-world callback examples
 
 ---
 
