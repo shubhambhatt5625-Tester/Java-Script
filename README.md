@@ -23,6 +23,8 @@ A structured collection of JavaScript exercises and examples organized by chapte
 | 14 | [`14_chapter_objects`](./14_chapter_objects) | Objects (upcoming) |
 | 15 | [`15_chapter_2Darray_MultiArray`](./15_chapter_2Darray_MultiArray) | 2D/Multi-dimensional arrays: grid creation, real-world examples, array functions, pattern printing |
 | 16 | [`16_chapter_callback`](./16_chapter_callback) | Callbacks: basics, callback hell, async vs sync, Playwright callbacks, parameters, return types |
+| 17 | [`17_chapter_Promise`](./17_chapter_Promise) | Promises: `resolve`, `reject`, `.then()`, `.catch()`, `.finally()`, `Promise.all()`, `Promise.allSettled()` |
+| 18 | [`18_chapter_async_await`](./18_chapter_async_await) | Async/Await: `async` functions, `await`, `try/catch/finally`, parallel vs sequential execution |
 
 ---
 
@@ -166,6 +168,24 @@ Or run directly inside browser DevTools by copying the code.
 - Callbacks with parameters
 - Callback return types
 - Real-world callback examples
+
+### Chapter 17 - Promises
+- Promise basics: `resolve` and `reject`
+- `.then()` for handling resolved values
+- `.catch()` for handling rejected values
+- `.finally()` for cleanup code
+- Chaining multiple Promises
+- `Promise.all()` — all-or-nothing execution
+- `Promise.allSettled()` — collect all results regardless of outcome
+
+### Chapter 18 - Async/Await
+- `async` function basics
+- `await` keyword usage
+- `try/catch/finally` with async/await
+- Top-level await (ES Modules)
+- Rewriting Promise chains with async/await
+- Parallel execution with `Promise.allSettled()`
+- Sequential execution with dependent steps
 
 ---
 
