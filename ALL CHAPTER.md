@@ -8,24 +8,24 @@ A structured collection of JavaScript exercises and examples organized by chapte
 
 | Chapter | Folder | Topics Covered |
 |---------|--------|--------------|
-| 01 | [`01_chapter_basic`](./01_chapter_basic) | Basics: `console.log`, setup verification |
-| 02 | [`02_chapter`](./02_chapter) | Reserved keywords as variable names |
-| 03 | [`03_chapter_identifier`](./03_chapter_identifier) | Identifiers, naming rules, comments, keyboard shortcuts |
-| 04 | [`04_chaper_var_function_let_constant`](./04_chaper_var_function_let_constant) | Variables: `var`, `let`, `const`, functions, hoisting, scope |
-| 05 | [`05_chapter_literals`](./05_chapter_literals) | Literals: numbers, strings, template literals, `null` vs `undefined` |
-| 06 | [`06_chapter_Operator`](./06_chapter_Operator) | Operators: arithmetic, comparison, logical, ternary, increment/decrement |
-| 07 | [`07_chapter_if_&_else_statement`](./07_chapter_if_&_else_statement) | Conditional statements: `if`, `else if`, `else`, real-world examples |
-| 08 | [`08_chapter_switch`](./08_chapter_switch) | Switch statements, browser detection, test scores |
-| 10 | [`10_chapter_Loop`](./10_chapter_Loop) | Loops: `for`, `while`, `do-while`, `continue`, `break`, FizzBuzz, IQ |
-| 11 | [`11_chapter_Array`](./11_chapter_Array) | Arrays: creation, accessing, modifying, searching, iteration, sorting, slicing, concatenation |
-| 12 | [`12_chapter_function`](./12_chapter_function) | Functions: basic, parameters, return types, expressions, arrow functions, templates |
-| 13 | [`13_chapter_string`](./13_chapter_string) | Strings: creation, searching, substring, transformation, conversion, cheat sheet |
-| 14 | [`14_chapter_objects`](./14_chapter_objects) | Objects (upcoming) |
-| 15 | [`15_chapter_2Darray_MultiArray`](./15_chapter_2Darray_MultiArray) | 2D/Multi-dimensional arrays: grid creation, real-world examples, array functions, pattern printing |
-| 16 | [`16_chapter_callback`](./16_chapter_callback) | Callbacks: basics, callback hell, async vs sync, Playwright callbacks, parameters, return types |
-| 17 | [`17_chapter_Promise`](./17_chapter_Promise) | Promises: `resolve`, `reject`, `.then()`, `.catch()`, `.finally()`, `Promise.all()`, `Promise.allSettled()` |
-| 18 | [`18_chapter_async_await`](./18_chapter_async_await) | Async/Await: `async` functions, `await`, `try/catch/finally`, parallel vs sequential execution |
-| 19 | [`19_chapter_playwright_basic`](./19_chapter_playwright_basic) | Playwright basics: setup, installation, browser automation, page navigation, selectors |
+| 01 | [`01_chapter_basic`](./01_chapter_basic/README.md) | Basics: `console.log`, setup verification |
+| 02 | [`02_chapter`](./02_chapter/README.md) | Reserved keywords as variable names |
+| 03 | [`03_chapter_identifier`](./03_chapter_identifier/README.md) | Identifiers, naming rules, comments, keyboard shortcuts |
+| 04 | [`04_chaper_var_function_let_constant`](./04_chaper_var_function_let_constant/README.md) | Variables: `var`, `let`, `const`, functions, hoisting, scope |
+| 05 | [`05_chapter_literals`](./05_chapter_literals/README.md) | Literals: numbers, strings, template literals, `null` vs `undefined` |
+| 06 | [`06_chapter_Operator`](./06_chapter_Operator/README.md) | Operators: arithmetic, comparison, logical, ternary, increment/decrement |
+| 07 | [`07_chapter_if_&_else_statement`](./07_chapter_if_&_else_statement/README.md) | Conditional statements: `if`, `else if`, `else`, real-world examples |
+| 08 | [`08_chapter_switch`](./08_chapter_switch/README.md) | Switch statements, browser detection, test scores |
+| 10 | [`10_chapter_Loop`](./10_chapter_Loop/README.md) | Loops: `for`, `while`, `do-while`, `continue`, `break`, FizzBuzz, IQ |
+| 11 | [`11_chapter_Array`](./11_chapter_Array/README.md) | Arrays: creation, accessing, modifying, searching, iteration, sorting, slicing, concatenation |
+| 12 | [`12_chapter_function`](./12_chapter_function/README.md) | Functions: basic, parameters, return types, expressions, arrow functions, closures, higher-order |
+| 13 | [`13_chapter_string`](./13_chapter_string/README.md) | Strings: creation, searching, substring, transformation, conversion, cheat sheet |
+| 14 | [`14_chapter_objects`](./14_chapter_objects/README.md) | Objects (upcoming) |
+| 15 | [`15_chapter_2Darray_MultiArray`](./15_chapter_2Darray_MultiArray/README.md) | 2D/Multi-dimensional arrays: grid creation, real-world examples, array functions, pattern printing |
+| 16 | [`16_chapter_callback`](./16_chapter_callback/README.md) | Callbacks: basics, callback hell, async vs sync, Playwright callbacks, parameters, return types |
+| 17 | [`17_chapter_Promise`](./17_chapter_Promise/README.md) | Promises: `resolve`, `reject`, `.then()`, `.catch()`, `.finally()`, `Promise.all()`, `Promise.allSettled()` |
+| 18 | [`18_chapter_async_await`](./18_chapter_async_await/README.md) | Async/Await: `async` functions, `await`, `try/catch/finally`, parallel vs sequential execution |
+| 19 | [`19_chapter_playwright_basic`](./19_chapter_playwright_basic/README.md) | Playwright basics: setup, installation, browser automation, page navigation, selectors |
 
 ---
 
@@ -141,6 +141,10 @@ Or run directly inside browser DevTools by copying the code.
 - Template literals in functions
 - Function expressions
 - Arrow functions
+- IIFE (Immediately Invoked Function Expression)
+- Default, rest, and spread parameters
+- Scope and closures
+- Higher-order functions
 
 ### Chapter 13 - Strings
 - String creation (single, double, template literals)
