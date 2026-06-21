@@ -25,6 +25,7 @@ A structured collection of JavaScript exercises and examples organized by chapte
 | 16 | [`16_chapter_callback`](./16_chapter_callback) | Callbacks: basics, callback hell, async vs sync, Playwright callbacks, parameters, return types |
 | 17 | [`17_chapter_Promise`](./17_chapter_Promise) | Promises: `resolve`, `reject`, `.then()`, `.catch()`, `.finally()`, `Promise.all()`, `Promise.allSettled()` |
 | 18 | [`18_chapter_async_await`](./18_chapter_async_await) | Async/Await: `async` functions, `await`, `try/catch/finally`, parallel vs sequential execution |
+| 19 | [`19_chapter_playwright_basic`](./19_chapter_playwright_basic) | Playwright basics (upcoming) |
 
 ---
 
@@ -186,6 +187,9 @@ Or run directly inside browser DevTools by copying the code.
 - Rewriting Promise chains with async/await
 - Parallel execution with `Promise.allSettled()`
 - Sequential execution with dependent steps
+
+### Chapter 19 - Playwright Basics
+- Upcoming content
 
 ---
 
