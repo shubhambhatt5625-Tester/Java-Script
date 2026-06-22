@@ -25,7 +25,7 @@ A structured collection of JavaScript exercises and examples organized by chapte
 | 16 | [`16_chapter_callback`](./16_chapter_callback/README.md) | Callbacks: basics, callback hell, async vs sync, Playwright callbacks, parameters, return types |
 | 17 | [`17_chapter_Promise`](./17_chapter_Promise/README.md) | Promises: `resolve`, `reject`, `.then()`, `.catch()`, `.finally()`, `Promise.all()`, `Promise.allSettled()` |
 | 18 | [`18_chapter_async_await`](./18_chapter_async_await/README.md) | Async/Await: `async` functions, `await`, `try/catch/finally`, parallel vs sequential execution |
-| 19 | [`19_chapter_playwright_basic`](./19_chapter_playwright_basic/README.md) | Playwright basics: setup, installation, browser automation, page navigation, selectors |
+| 19 | [`19_chapter_playwright_basic`](./19_chapter_playwright_basic/README.md) | Playwright basics: setup, `@playwright/test`, config, test fixtures, page navigation, selectors, browser automation |
 
 ---
 
@@ -196,6 +196,11 @@ Or run directly inside browser DevTools by copying the code.
 - Playwright installation and setup
 - Browser automation fundamentals
 - Page navigation and selectors
+- `@playwright/test` configuration (`playwright.config.ts`)
+- Test fixtures: `page`, `test`, `expect`
+- Writing and running Playwright tests
+- Multi-browser support (Chromium, Firefox, WebKit)
+- HTML reporter and trace viewer
 
 ---
 
