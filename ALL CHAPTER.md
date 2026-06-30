@@ -16,6 +16,7 @@ A structured collection of JavaScript exercises and examples organized by chapte
 | 06 | [`06_chapter_Operator`](./06_chapter_Operator/README.md) | Operators: arithmetic, comparison, logical, ternary, increment/decrement |
 | 07 | [`07_chapter_if_&_else_statement`](./07_chapter_if_&_else_statement/README.md) | Conditional statements: `if`, `else if`, `else`, real-world examples |
 | 08 | [`08_chapter_switch`](./08_chapter_switch/README.md) | Switch statements, browser detection, test scores |
+| 09 | [`09_User_Input`](./09_User_Input/README.md) | User input (upcoming) |
 | 10 | [`10_chapter_Loop`](./10_chapter_Loop/README.md) | Loops: `for`, `while`, `do-while`, `continue`, `break`, FizzBuzz, IQ |
 | 11 | [`11_chapter_Array`](./11_chapter_Array/README.md) | Arrays: creation, accessing, modifying, searching, iteration, sorting, slicing, concatenation |
 | 12 | [`12_chapter_function`](./12_chapter_function/README.md) | Functions: basic, parameters, return types, expressions, arrow functions, closures, higher-order |
@@ -112,6 +113,9 @@ Or run directly inside browser DevTools by copying the code.
 - Vowel checker
 - Test score grading
 - Switch IQ / puzzle questions
+
+### Chapter 09 - User Input
+- Upcoming content
 
 ### Chapter 10 - Loops
 - `for` loop, `while` loop, `do-while` loop
