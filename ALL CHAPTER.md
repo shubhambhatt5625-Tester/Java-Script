@@ -26,6 +26,9 @@ A structured collection of JavaScript exercises and examples organized by chapte
 | 17 | [`17_chapter_Promise`](./17_chapter_Promise/README.md) | Promises: `resolve`, `reject`, `.then()`, `.catch()`, `.finally()`, `Promise.all()`, `Promise.allSettled()` |
 | 18 | [`18_chapter_async_await`](./18_chapter_async_await/README.md) | Async/Await: `async` functions, `await`, `try/catch/finally`, parallel vs sequential execution |
 | 19 | [`19_chapter_playwright_basic`](./19_chapter_playwright_basic/README.md) | Playwright basics: setup, `@playwright/test`, config, test fixtures, page navigation, selectors, browser automation |
+| 20 | [`20_chapter_Export_Import`](./20_chapter_Export_Import/) | Export/Import: ES modules, `export`, `import`, default exports, named exports |
+| 21 | [`21_chapter_Class_and_object`](./21_chapter_Class_and_object/) | Classes & Objects: class syntax, constructors, inheritance, static methods, private vs public |
+| 22 | [`22_chapter_encapsulation`](./22_chapter_encapsulation/) | Encapsulation: data hiding, getters/setters, real-world examples |
 
 ---
 
@@ -201,6 +204,26 @@ Or run directly inside browser DevTools by copying the code.
 - Writing and running Playwright tests
 - Multi-browser support (Chromium, Firefox, WebKit)
 - HTML reporter and trace viewer
+
+### Chapter 20 - Export/Import (ES Modules)
+- ES module syntax: `export` and `import`
+- Named exports and imports
+- Default exports and imports
+- Module utilities and test utilities
+
+### Chapter 21 - Classes and Objects
+- Class syntax and declarations
+- Constructors and object instantiation
+- Inheritance and method overriding
+- Static methods and properties
+- Private vs public class members
+- Real-world class examples (browser automation, car, IQ)
+
+### Chapter 22 - Encapsulation
+- Data hiding and access control
+- Getters and setters
+- Real-world encapsulation examples (bank, car)
+- Practical OOP patterns
 
 ---
 
